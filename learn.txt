@@ -1,0 +1,8 @@
+# learned:
+# 1. dictionaries
+# 2. weighted randomness
+# 3. memory
+# 4. for loops
+# 5. value capping
+
+# long way to go lol... :)
